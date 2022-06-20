@@ -80,7 +80,7 @@ const PropertyDetails = () => {
     </p>
   ))
 
-  return content
+  return <>{content}</>
 }
 
 export default PropertyDetails
